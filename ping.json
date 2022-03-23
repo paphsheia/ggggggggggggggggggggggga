@@ -2,9 +2,9 @@
     "query": [
         {
             "number": 1,
-            "name": "Pawno-Rus.Ru",
-            "ip": "127.0.0.1",
-            "port": 7777,
+            "name": "Moonlight",
+            "ip": "194.61.3.113",
+            "port": 3003,
             "online": 0,
             "maxplayers": 100,
             "password": false,
